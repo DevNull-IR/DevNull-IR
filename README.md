@@ -29,11 +29,20 @@ Learning FrontEnd Developer
       </a>
       <br>Javascript - I have just started
     </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/375px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="50" alt="Javascript" />
+      </a>
+      <br> php
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png" width="50" height="50" alt="Javascript" />
+      </a>
+      <br> python - I have just started
+    </td>
   </tr>
-  <tr>
-
-  </tr>
-</table>  
+</table>    
 
 <a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
  <p>youtube</p>
