@@ -7,17 +7,12 @@ Learning FrontEnd Developer
  <div style="display:flex;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=midnight-purple" />
  </div>
-<style>
- a{
- text-decoration:none;
- }
- </style>
-<a href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
+<a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
  <p>youtube</p>
 </a>
-<a href="https://t.me/dev_null" target="_blank">
+<a style="text-decoration:none;" href="https://t.me/dev_null" target="_blank">
  <p>Telegram</p>
 </a>
-<a href="https://twitter.com/AlidevNull" target="_blank">
+<a style="text-decoration:none;" href="https://twitter.com/AlidevNull" target="_blank">
  <p>twitter</p>
 </a>
