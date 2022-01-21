@@ -29,7 +29,12 @@ Learning FrontEnd Developer
       </a>
       <br>Javascript - I have just started
     </td>
-
+       <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="Javascript" />
+      </a>
+      <br> My Sql
+    </td>
   </tr>
  <tr>
       <td align="center" width="100">
@@ -44,12 +49,7 @@ Learning FrontEnd Developer
       </a>
       <br> python - I have just started
     </td>
-       <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="Javascript" />
-      </a>
-      <br> My Sql
-    </td>
+
   </tr>
 </table>    
 
