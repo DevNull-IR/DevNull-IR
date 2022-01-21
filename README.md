@@ -7,6 +7,9 @@ Learning FrontEnd Developer
  <div style="display:flex;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=midnight-purple" />
  </div> 
+ <br />
+ <hr />
+ <br />
 <table>
 <tr>
 <td align="center" width="150">
