@@ -85,3 +85,9 @@ Learning FrontEnd Developer
 <a style="text-decoration:none;" href="https://twitter.com/AlidevNull" target="_blank">
  <p>twitter</p>
 </a>
+<a style="text-decoration:none;" href="https://www.linkedin.com/in/ali-devnull/" target="_blank">
+ <p>linkedin</p>
+</a>
+<a style="text-decoration:none;" href="https://github.com/DevNull-IR" target="_blank">
+ <p>github</p>
+</a>
