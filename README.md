@@ -44,12 +44,7 @@ Learning FrontEnd Developer
     </td>
   </tr>
  <tr>
-         <td align="center" width="150">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="My Sql" />
-      </a>
-      <br> My Sql
-    </td>
+
     <td align="center" width="150">
       <a href="#">
         <img src="https://dl2.macupdate.com/images/icons256/37748.png?d=1444416543" width="50" height="50" alt="regex" />
