@@ -61,9 +61,15 @@ Learning FrontEnd Developer
 </td>
 <td align="center" width="150">
 <a href="#">
-<img src="http://pngimg.com/uploads/photoshop/photoshop_PNG2.png" width="50" height="50" alt="json" />
+<img src="http://pngimg.com/uploads/photoshop/photoshop_PNG2.png" width="50" height="50" alt="photoshop" />
 </a>
 <br> photoshop - I have just started
+</td>
+ <td align="center" width="150">
+<a href="#">
+<img src="https://www.guestposttracker.com/wp-content/uploads/2019/03/writing-logo-2.png" width="50" height="50" alt="Content Writer" />
+</a>
+<br> Content Writer - I have just started
 </td>
 </tr>
 </table>  
