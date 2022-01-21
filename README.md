@@ -7,9 +7,9 @@ Learning FrontEnd Developer
  <div style="display:flex;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=midnight-purple" />
  </div> 
-<tabke>
+<table>
 	
-	</table>
+</table>
 <a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
  <p>youtube</p>
 </a>
