@@ -29,7 +29,10 @@ Learning FrontEnd Developer
       </a>
       <br>Javascript - I have just started
     </td>
-    <td align="center" width="100">
+
+  </tr>
+ <tr>
+      <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/375px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="50" alt="Javascript" />
       </a>
