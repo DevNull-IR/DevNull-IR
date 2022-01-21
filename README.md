@@ -59,6 +59,12 @@ Learning FrontEnd Developer
 </a>
 <br> json - Running out
 </td>
+<td align="center" width="150">
+<a href="#">
+<img src="http://pngimg.com/uploads/photoshop/photoshop_PNG2.png" width="50" height="50" alt="json" />
+</a>
+<br> photoshop - I have just started
+</td>
 </tr>
 </table>  
 <a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
