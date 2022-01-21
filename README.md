@@ -35,9 +35,7 @@ Learning FrontEnd Developer
       </a>
       <br> My Sql
     </td>
-  </tr>
- <tr>
-      <td align="center" width="100">
+         <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/375px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="50" alt="Javascript" />
       </a>
@@ -49,7 +47,20 @@ Learning FrontEnd Developer
       </a>
       <br> python - I have just started
     </td>
-
+  </tr>
+ <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://dl2.macupdate.com/images/icons256/37748.png?d=1444416543" width="50" height="50" alt="regex" />
+      </a>
+      <br> regex - I have just started
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://rintoj.gallerycdn.vsassets.io/extensions/rintoj/json-organizer/0.0.4/1539281051842/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="json" />
+      </a>
+      <br> json - Running out
+    </td>
   </tr>
 </table>    
 
