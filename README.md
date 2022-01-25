@@ -44,6 +44,12 @@ Learning FrontEnd Developer
 </td>
 </tr>
 <tr>
+ <td align="center" width="150">
+<a href="#">
+<img src="https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png" width="50" height="50" alt="Javascript" />
+</a>
+<br> python - I have just started
+</td>
 <td align="center" width="150">
 <a href="#">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="My Sql" />
@@ -68,7 +74,9 @@ Learning FrontEnd Developer
 </a>
 <br> photoshop - I have just started
 </td>
- <td align="center" width="150">
+</tr>
+ <tr>
+   <td align="center" width="150">
 <a href="#">
 <img src="https://www.guestposttracker.com/wp-content/uploads/2019/03/writing-logo-2.png" width="50" height="50" alt="Content Writer" />
 </a>
