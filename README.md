@@ -38,9 +38,9 @@ Learning FrontEnd Developer
 </td>
 <td align="center" width="150">
 <a href="#">
-<img src="https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png" width="50" height="50" alt="Javascript" />
+<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="laravel" />
 </a>
-<br> python - I have just started
+<br> laravel - Let Go to learn
 </td>
 </tr>
 <tr>
