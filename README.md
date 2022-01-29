@@ -15,31 +15,31 @@ Learning FrontEnd Developer
 <table>
 <tr>
 <td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
 </a>
 <br>HTML 5
 </td>
 <td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
 </a>
 <br>CSS 3 - I have just started
 </td>
 <td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="Javascript" />
 </a>
 <br>Javascript - I have just started
 </td>
 <td align="center" width="150">
-<a href="https://php.net">
+<a href="https://php.net" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/375px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="50" alt="Javascript" />
 </a>
 <br> php
 </td>
 <td align="center" width="150">
-<a href="https://laravel.com/docs">
+<a href="https://laravel.com/docs" target="_blank">
 <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="laravel" />
 </a>
 <br> laravel - Let Go to learn
@@ -47,25 +47,25 @@ Learning FrontEnd Developer
 </tr>
 <tr>
  <td align="center" width="150">
-<a href="https://www.python.org/doc/">
+<a href="https://www.python.org/doc/" target="_blank">
 <img src="https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png" width="50" height="50" alt="Javascript" />
 </a>
 <br> python - I have just started
 </td>
 <td align="center" width="150">
-<a href="https://dev.mysql.com/doc/">
+<a href="https://dev.mysql.com/doc/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="My Sql" />
 </a>
 <br> My Sql
 </td>
 <td align="center" width="150">
-<a href="https://www.google.com/search?q=regex">
+<a href="https://www.google.com/search?q=regex" target="_blank">
 <img src="https://dl2.macupdate.com/images/icons256/37748.png?d=1444416543" width="50" height="50" alt="regex" />
 </a>
 <br> regex - I have just started
 </td>
 <td align="center" width="150">
-<a href="https://www.json.org/json-fa.html" target="_blank">
+<a href="https://www.json.org/json-fa.html" target="_blank" target="_blank">
 <img src="https://rintoj.gallerycdn.vsassets.io/extensions/rintoj/json-organizer/0.0.4/1539281051842/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="json" />
 </a>
 <br> json - Running out
