@@ -86,8 +86,10 @@ Learning FrontEnd Developer
 </td>
 </tr>
 </table> 
+ <br />
+<hr />
 
-- [X] I Love You Php
+- [X] <b> I Love You Php </b>
 - [X] I Love You Zeynab
 - [X] I Love You Mother
 
