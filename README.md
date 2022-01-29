@@ -65,13 +65,13 @@ Learning FrontEnd Developer
 <br> regex - I have just started
 </td>
 <td align="center" width="150">
-<a href="https://www.json.org/json-fa.html">
+<a href="https://www.json.org/json-fa.html" target="_blank">
 <img src="https://rintoj.gallerycdn.vsassets.io/extensions/rintoj/json-organizer/0.0.4/1539281051842/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="json" />
 </a>
 <br> json - Running out
 </td>
 <td align="center" width="150">
-<a href="https://www.adobe.com/products/photoshop.html">
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
 <img src="http://pngimg.com/uploads/photoshop/photoshop_PNG2.png" width="50" height="50" alt="photoshop" />
 </a>
 <br> photoshop - I have just started
@@ -79,7 +79,7 @@ Learning FrontEnd Developer
 </tr>
  <tr>
    <td align="center" width="150">
-<a href="#">
+<a href="https://blog.google/" target="_blank">
 <img src="https://www.guestposttracker.com/wp-content/uploads/2019/03/writing-logo-2.png" width="50" height="50" alt="Content Writer" />
 </a>
 <br> Content Writer - I have just started
