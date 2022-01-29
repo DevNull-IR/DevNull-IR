@@ -90,7 +90,7 @@ Learning FrontEnd Developer
 <hr />
 
 - [X] <b> I Love You Php </b>
-- [X] I Love You Zeynab
+- [X] <b> I Love You Zeynab </b>
 - [X] I Love You Mother
 
 <a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
