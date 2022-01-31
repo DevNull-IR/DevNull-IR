@@ -108,3 +108,7 @@ Learning FrontEnd Developer
 <a style="text-decoration:none;" href="https://github.com/DevNull-IR" target="_blank">
  <p>github</p>
 </a>
+
+
+[shourt link](https://f1r.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github) 
+[api](https://iso-plus.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github)
