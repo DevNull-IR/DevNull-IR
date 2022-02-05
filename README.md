@@ -18,6 +18,10 @@ Learning FrontEnd Developer
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=gruvbox" />
  </div> 
  <br />
+  <div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNull-IR&layout=compact" />
+ </div> 
+ <br />
  <hr />
  <br />
 <table>
