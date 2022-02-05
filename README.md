@@ -24,6 +24,7 @@ Learning FrontEnd Developer
  <br />
  <hr />
  <br />
+ <h1>🛠️ Skills and Technologies</h1>
 <table>
 <tr>
 <td align="center" width="150">
