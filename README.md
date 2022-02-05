@@ -6,6 +6,10 @@ i’m BackEnd Developer (Php Developer)
 Learning FrontEnd Developer
  <hr />
   <br />
+  <h1>GitHub Status</h1>
+  <br />
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=DevNull-IR&label=Views&color=000000&style=flat" alt="profile views" /> </p>
+  <br />
  <div style="display:flex;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=midnight-purple" />
  </div> 
