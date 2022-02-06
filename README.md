@@ -8,7 +8,7 @@ Learning FrontEnd Developer
   <br />
 <h1> 💻 GitHub Status </h1>
   <br />
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=DevNull-IR&label=Views&color=fb8c00&style=flat" alt="profile views" /> </p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=DevNull-IR&label=Profile+views&color=fb8c00&style=flat" alt="profile views" /> </p>
   <br />
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DevNull-IR&theme=highcontrast"/>
