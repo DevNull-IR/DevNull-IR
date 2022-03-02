@@ -128,4 +128,4 @@ My Sites
 
 [shourt link](https://f1r.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github)  | 
 [api](https://iso-plus.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github) | 
-[My Werb](url)
+[My Web](url)
