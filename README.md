@@ -3,7 +3,6 @@
 <br/>
 i’m BackEnd Developer (Php Developer) 
  
-Learning FrontEnd Developer
  <hr />
   <br />
 <h1> 💻 GitHub Status </h1>
