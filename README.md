@@ -1,130 +1,39 @@
+<h1 align="center">Hi 👋, I'm DevNull (real world Ali)</h1>
+<h3 align="center">A backend developer from Iran</h3>
 
-<h1> Hi 👋, I’m Ali Shahbazpor <img src="https://emoji.gg/assets/emoji/1002-rockandroll.png" width="64px" height="64px" alt="rockandroll"></h1>
-<br/>
-i’m BackEnd Developer (Php Developer) 
- 
- <hr />
-  <br />
-<h1> 💻 GitHub Status </h1>
-  <br />
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=DevNull-IR&label=Profile+views&color=fb8c00&style=flat" alt="profile views" /> </p>
-  <br />
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevNull-IR&theme=highcontrast"/>
-</div>
-<br />
- <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNull-IR&count_private=true&show_icons=true&theme=gruvbox" />
- </div> 
- <br />
-  <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNull-IR&layout=compact" />
- </div> 
- <br />
- <hr />
- <br />
- <h1>🛠️ Skills and Technologies</h1>
-<table>
-<tr>
-<td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
-</a>
-<br>HTML 5
-</td>
-<td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
-</a>
-<br>CSS 3 - I have just started
-</td>
-<td align="center" width="150">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="Javascript" />
-</a>
-<br>Javascript - I have just started
-</td>
-<td align="center" width="150">
-<a href="https://php.net" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/375px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="50" alt="Javascript" />
-</a>
-<br> php
-</td>
-<td align="center" width="150">
-<a href="https://laravel.com/docs" target="_blank">
-<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="laravel" />
-</a>
-<br> laravel - Let Go to learn
-</td>
-</tr>
-<tr>
- <td align="center" width="150">
-<a href="https://www.python.org/doc/" target="_blank">
-<img src="https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png" width="50" height="50" alt="Javascript" />
-</a>
-<br> python - I have just started
-</td>
-<td align="center" width="150">
-<a href="https://dev.mysql.com/doc/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/768px-Mysql.svg.png" width="50" height="50" alt="My Sql" />
-</a>
-<br> My Sql
-</td>
-<td align="center" width="150">
-<a href="https://www.google.com/search?q=regex" target="_blank">
-<img src="https://dl2.macupdate.com/images/icons256/37748.png?d=1444416543" width="50" height="50" alt="regex" />
-</a>
-<br> regex - I have just started
-</td>
-<td align="center" width="150">
-<a href="https://www.json.org/json-fa.html" target="_blank" target="_blank">
-<img src="https://rintoj.gallerycdn.vsassets.io/extensions/rintoj/json-organizer/0.0.4/1539281051842/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="json" />
-</a>
-<br> json - Running out
-</td>
-<td align="center" width="150">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="http://pngimg.com/uploads/photoshop/photoshop_PNG2.png" width="50" height="50" alt="photoshop" />
-</a>
-<br> photoshop - I have just started
-</td>
-</tr>
- <tr>
-   <td align="center" width="150">
-<a href="https://blog.google/" target="_blank">
-<img src="https://www.guestposttracker.com/wp-content/uploads/2019/03/writing-logo-2.png" width="50" height="50" alt="Content Writer" />
-</a>
-<br> Content Writer - I have just started
-</td>
-</tr>
-</table> 
- <br />
-<hr />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnull-ir&label=Profile%20views&color=0e75b6&style=flat" alt="devnull-ir" /> </p>
 
-- [X] <b> I Love You Php </b>
-- [X] <b> I Love You Zeynab </b>
-- [X] <b> I Love You Mother </b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnull-ir" alt="devnull-ir" /></a> </p>
 
-<a style="text-decoration:none;" href="https://www.youtube.com/channel/UC0CPmLnG4y2q6kwmRAokIBw" target="_blank">
- <p>youtube</p>
-</a>
-<a style="text-decoration:none;" href="https://t.me/dev_null" target="_blank">
- <p>Telegram</p>
-</a>
-<a style="text-decoration:none;" href="https://twitter.com/AlidevNull" target="_blank">
- <p>twitter</p>
-</a>
-<a style="text-decoration:none;" href="https://www.linkedin.com/in/ali-devnull/" target="_blank">
- <p>linkedin</p>
-</a>
-<a style="text-decoration:none;" href="https://github.com/DevNull-IR" target="_blank">
- <p>github</p>
-</a>
-<hr />
-<h4 style="font-weget:bold;">
-My Sites
-</h4>
+<p align="left"> <a href="https://twitter.com/alidevnull" target="blank"><img src="https://img.shields.io/twitter/follow/alidevnull?logo=twitter&style=for-the-badge" alt="alidevnull" /></a> </p>
 
-[shourt link](https://f1r.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github)  | 
-[api](https://iso-plus.ir/?utm_source=github&utm_medium=github&utm_campaign=github&utm_term=github&utm_content=github) | 
-[My Web](https://devnull-ali.ir)
+- 🌱 I’m currently learning **Dart, Flutter, Python and C#**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DevNull-IR](https://github.com/DevNull-IR)
+
+- 📝 I regularly write articles on [https://github.com/DevNull-IR](https://github.com/DevNull-IR)
+
+- 💬 Ask me about **PHP, Laravel**
+
+- 📫 How to reach me **alishahbazpor110@gmail.com**
+
+- 📄 Know about my experiences [An inexperienced person learning](An inexperienced person learning)
+
+- ⚡ Fun fact **Lover of learning, demanding open source, lover of education**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alidevnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alidevnull" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18395711/devnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18395711/devnull" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ir.devnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ir.devnull" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sadsasdasd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sadsasdasd" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnull-ir&show_icons=true&locale=en&layout=compact" alt="devnull-ir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devnull-ir&" alt="devnull-ir" /></p>
